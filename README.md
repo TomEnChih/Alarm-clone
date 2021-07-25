@@ -8,3 +8,5 @@
 * model 的設置
 * 細節的處理（ex. 日期點選星期六日會出現週末，名稱為nil時會顯示*鬧鐘*，主頁要按照日期順序排列...）
 
+
+<img src="https://github.com/TomEnChih/Alarm-clone/blob/master/AlarmCloneGif.gif" width = "30%" height = "30%" alt="MainController"/>
